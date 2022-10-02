@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I am Akshay Sharma, a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing **Master of Computer Applications** from **NIT Raipur** and will graduate in mid-2024.
+🎓 I am Aditya Pathak, a **Front End Web Developer** (specializing in **React Applications**). I am pursuing **Master of Computer Applications(MCA)** from **NIT Raipur** (Batch 2021-2024).
 
-✈️ Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **travelling**, **exploring new technologies** and **Body Building**.
+✈️ A self-motivated and hardworking individual constantly involved in self-improvement and always ready to take up challenging tasks to test my skills and improve them further. I am confident in my ability to come up with interesting ideas which will help me to pursue my goal.**.
 
 ## 🛠️ Skills
 
@@ -18,11 +18,8 @@
 ### Front-End Development
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
@@ -33,7 +30,6 @@
 
 ## 🔗 Links
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/akshaysharma274/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/akshay2742)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/akshay2742)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_sharma274/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aditya-pathak-7ab7b2173/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/paditya99)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aditya__pk/)
