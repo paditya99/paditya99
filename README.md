@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 **Front End Web Developer** (specializing in **React Applications**). Pursuing **Master of Computer Applications(MCA)** from **NIT Raipur** (Batch 2021-2024).
+🎓 **Software Developer** graduated with **Master of Computer Applications(MCA)** degree from **NIT Raipur** (Batch 2021-2024).
 
 ✈️ A self-motivated and hardworking individual constantly involved in self-improvement and always ready to take up challenging tasks to test my skills and improve them further. I am confident in my ability to come up with interesting ideas which will help me to pursue my goal.**.
 
