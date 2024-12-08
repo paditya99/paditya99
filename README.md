@@ -31,7 +31,7 @@
 
 ### Database
 
-![Oracle SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle-SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🔗 Links
